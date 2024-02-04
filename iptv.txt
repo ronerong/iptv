@@ -41,7 +41,7 @@ HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8
 
-央视道,#genre#
+央视频道,#genre#
 CCTV-1综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV-1综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1综合，http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
