@@ -1,6 +1,8 @@
 港·澳·台频道,#genre#
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8
