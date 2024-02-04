@@ -41,20 +41,21 @@ HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8
 
+
 央视频道,#genre#
 CCTV-1综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV-1综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-1综合，http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-CCTV-1综合，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-1综合，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
-CCTV-1综合，mitv://Generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
-CCTV-1综合，http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?icpid =3&RTS=1674379784&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-CCTV-1综合，http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1925441929_1417964840/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid =3&RTS=167438 6335&来自=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+CCTV-1综合,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
+CCTV-1综合,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?icpid=3&RTS=1674379784&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+CCTV-1综合,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1925441929_1417964840/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1674386335&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 CCTV-2财经,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-2财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV-2财经,mitv:// Generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
+CCTV-2财经,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV-2财经,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw1528922594_677066330/ott.mobaibox.com/PLTV/3/224/3221227708/index.m3u8?icpid=3&RTS=1674385939&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 CCTV-2财经,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1742213158_1775644325/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1674386152&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV-3综艺,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8
@@ -213,6 +214,11 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 弈坛春秋,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 游戏风云,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
+求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+
 
 卫视频道,#genre#
 广东珠江,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdzj
@@ -2077,7 +2083,7 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 朱鹮04,http://gctxyc.liveplay.myqcloud.com/gc/zh04_1_md.m3u8
 三公山景区,http://gcbsc.v.live.baishancdnx.cn/gc/qdls03_1/index.m3u8
 港珠澳大桥,http://gctxyc.liveplay.myqcloud.com/gc/qdls04_1_md.m3u8
-青龙山景区，http://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+青龙山景区,http://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
 洈水风景区,http://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
 新疆灯杆山,http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8
 飘香风景区,http://gctxyc.liveplay.myqcloud.com/gc/nywbwg01_1_md.m3u8
@@ -2128,7 +2134,7 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 湖南天门洞,http://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
 河池世外桃源,http://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
 云梦仙顶,http://gctxyc.liveplay.myqcloud.com/gc/tms04_1_md.m3u8
-高坪花白人谷,http://gctxyc.liveplay.myqcloud.com/gc/drs01_1_md.m3u8
+高坪花硒谷,http://gctxyc.liveplay.myqcloud.com/gc/drs01_1_md.m3u8
 泰顺县廊桥,http://gctxyc.liveplay.myqcloud.com/gc/nss01_1_md.m3u8
 昆山教育基地,http://gctxyc.liveplay.myqcloud.com/gc/zdxq01_1_md.m3u8
 湖南岳阳楼,http://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
