@@ -2147,3 +2147,9 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 黄龙五彩池,http://gccncc.v.wscdns.com/gc/hlwcc_1/index.m3u8
 桂林阳桥,http://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
 固原将台堡,http://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
+
+测试#genre#
+翡翠台1,mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
+翡翠台2,p3p://108.181.32.169:57720/6533f5c20003762b2cfef1ac322c6404.ts
+翡翠台3,p3p://108.181.32.169:57720/6533f6560002787f2d01338b57197695.ts
+翡翠台4,p3p://108.181.32.169:57720/64206c63000c3a90d801201c5fe2483a
