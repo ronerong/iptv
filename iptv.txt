@@ -1,7 +1,6 @@
 港·澳·台频道,#genre#
 翡翠台,p3p://108.181.32.169:57720/6533f6560002787f2d01338b57197695.ts
 翡翠台,p3p://108.181.32.169:57720/6533f5c20003762b2cfef1ac322c6404.ts
-翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8
 翡翠台,p3p://108.181.32.169:57720/64206c63000c3a90d801201c5fe2483a
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
