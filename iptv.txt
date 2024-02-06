@@ -1,20 +1,18 @@
 港·澳·台频道,#genre#
 翡翠台,p3p://108.181.32.169:57720/6533f6560002787f2d01338b57197695.ts
 翡翠台,p3p://108.181.32.169:57720/6533f5c20003762b2cfef1ac322c6404.ts
-翡翠台,p3p://108.181.32.169:57720/64206c63000c3a90d801201c5fe2483a
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8
-明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+Astro,mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
+星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8
+明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
@@ -39,7 +37,8 @@ Hands,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
 亚洲剧台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 功夫台,mitv://generationnexxxt.com:19806/ef6373344abf4bedae4d49ac953c1742
 HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
+MyTv Super,p3p://108.181.32.169:57720/64206c63000c3a90d801201c5fe2483a
+MyTv Super,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8
 
