@@ -1,4 +1,4 @@
-港·澳·台,#genre#
+港澳台频道,#genre#
 TVB翡翠台,p3p://108.181.32.169:57720/6533f6560002787f2d01338b57197695.ts
 TVB翡翠台,p3p://108.181.32.169:57720/6533f5c20003762b2cfef1ac322c6404.ts
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
@@ -388,7 +388,7 @@ Z频道,mitv://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 罪案侦缉频道,mitv://generationnexxxt.com:19806/ef7b4ee3be374092a4a0074a6be41e03
 罪案偵查crime,p3p://108.181.32.169:57720/642520d9000d93c9ea61d4ea78792b01
 
-央视综合,#genre#
+央视频道,#genre#
 CCTV-1综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV-1综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
@@ -1074,7 +1074,7 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 
-广东,#genre#
+广东频道,#genre#
 广东珠江,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdzj
 广东珠江,mitv://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
@@ -1160,7 +1160,7 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 饶平台,http://www.namewee.xyz/gudou.php?id=raopingtaiHD
 GRTN文化频道,http://glive.grtn.cn/live/wenhua_test0203.m3u8
 
-NewTV系列,#genre#
+NewTV频道,#genre#
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
