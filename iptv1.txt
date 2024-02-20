@@ -1,4 +1,5 @@
 港澳台频道,#genre#
+TVB 翡翠台,http://113.116.34.69:39981/stream/channelid/1590380146
 TVB 翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 TVB 翡翠台,p3p://108.181.32.169:57720/6533f6560002787f2d01338b57197695.ts
 TVB 翡翠台,p3p://108.181.32.169:57720/6533f5c20003762b2cfef1ac322c6404.ts
