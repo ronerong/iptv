@@ -430,7 +430,7 @@ Z频道,mitv://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 年代新闻台,http://ali.hlspull.yximgs.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
 豬哥亮歌廳秀,p3p://108.181.32.169:57720/642d012f00030a3c0925e9a4065b1986
 罪案侦缉,mitv://generationnexxxt.com:19806/ef7b4ee3be374092a4a0074a6be41e03
-罪案侦缉crime,p3p://108.181.32.169:57720/642520d9000d93c9ea61d4ea78792b01
+罪案侦缉,p3p://108.181.32.169:57720/642520d9000d93c9ea61d4ea78792b01
 
 央视频道,#genre#
 CCTV-1 综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
