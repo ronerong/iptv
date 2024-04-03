@@ -3263,3 +3263,6 @@ Zoom TV,p3p://fccsen.dyndns.tv:29706/61e9e758000b65d1ea8102fe734b70f5
 龙广交通广播FM99.8,http://ls.qingting.fm/live/4973.m3u8
 龙广新闻广播FM94.6,http://ls.qingting.fm/live/4974.m3u8
 龙广音乐广播FM95.8,http://ls.qingting.fm/live/4969.m3u8
+
+随机,#genre#
+随机电影,http://aiyun.work.gd/sjdy.php
